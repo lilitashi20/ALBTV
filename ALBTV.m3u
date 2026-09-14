@@ -21,6 +21,12 @@ https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1 tvg-id="TropojaTelevizion.al@SD",Tropoja Televizion
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CUFO"
+https://oha.to/watch?live=1074568444ca1d715d516f
+#EXTINF:-1 tvg-id="BANG BANG"
+https://oha.to/watch?live=26901999929151545c6de1
+#EXTINF:-1 tvg-id="TRING TRING"
+https://oha.to/watch?live=27880501450c3e4dbdc9f8
 #EXTINF:-1 tvg-name="Top News" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" tvg-country="AL" group-title="Albania",Top News Ⓣ
 https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-name="ABC News Albania" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" tvg-country="AL" group-title="Albania",ABC News Albania Ⓣ
