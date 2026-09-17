@@ -27,6 +27,8 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://oha.to/watch?live=3553986754f372be84d22e
 #EXTINF:-1 tvg-name="SUPER SPORT 5 HD"
 https://oha.to/watch?live=12026193216cea169d916c
+#EXTINF:-1 tvg-name"RTSH SPORT"
+https://oha.to/watch?live=16734241520f8e97e9026f
 #EXTINF:-1 tvg-name="CUFO"
 https://oha.to/watch?live=1074568444ca1d715d516f
 #EXTINF:-1 tvg-name="BANG BANG"
